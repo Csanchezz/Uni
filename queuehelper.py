@@ -11,8 +11,9 @@ def helper(s, l, m):
         else: 
             response = (l/m)**x/math.factorial(x)
             n = n+response
-        
-    print(1/n)
+    r = 1/n
+    print(r)
+    return r
 
 
 helper(4, 3, 1)

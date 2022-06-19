@@ -10,5 +10,9 @@ def service_time(u, t):
     print(r)
     return r
 
-probability(16, 16)
+# a = 1 - probability(4, 1) - probability(4, 0)
+
+# print("last: ",a)
 # service_time(0.6, 3)
+
+probability(2, 1 )

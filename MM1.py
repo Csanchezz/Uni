@@ -60,5 +60,5 @@ class Queue:
         self.getP0()
         
 
-newq =  Queue( 1.5, 3, 1, 1)
+newq =  Queue( 100, 150, 10, 1)
 newq.makeall()
